@@ -5,3 +5,18 @@ d = int(input('Choose an arithmetic operation: \n 1 addition \n 2 subtraction \n
 
 if d == 1:
     r = a+b
+    p ='addition'
+    o = p
+if d == 2:
+    r = a-b
+    l = 'subtraction'
+    o = p
+if d == 3:
+    r = a*b
+    m = 'multiplication'
+    o = p
+if d == 4:
+    r = float(a/b)
+    n = 'division'
+    o = p
+print('Result',o,'number',a,'and',b,'=',r)
