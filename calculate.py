@@ -10,13 +10,13 @@ if d == 1:
 if d == 2:
     r = a-b
     l = 'subtraction'
-    o = p
+    o = l
 if d == 3:
     r = a*b
     m = 'multiplication'
-    o = p
+    o = m
 if d == 4:
     r = float(a/b)
     n = 'division'
-    o = p
+    o = n
 print('Result',o,'number',a,'and',b,'=',r)
