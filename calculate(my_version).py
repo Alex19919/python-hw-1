@@ -1,6 +1,6 @@
 # Спробував зробити по ось цьому відео: https://www.youtube.com/watch?v=k4A5H6nNWQs&list=PLIVOoSN7YV-iQ5XgENvV0qevsv6PsndLC&index=27&ab_channel=%D0%9A%D0%B0%D0%B1%D1%96%D0%BD%D0%B5%D1%82%D1%96%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B8
 
-# але чомусь в output не можу  внести значення (((     на відео все на сайті в клсноль
+# але чомусь в output не можу  внести значення (((     на відео все на сайті в коснолі
 
 a = int(input('First number: '))
 b = int(input('Second number: '))
